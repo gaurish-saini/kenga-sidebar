@@ -1,0 +1,48 @@
+@each $name, $value in $spacers{
+	.mt-#{$name} {
+		margin-top: $value;
+	}
+    .mt-n#{$name} {
+		margin-top: $value * -1 !important;
+	}
+}
+
+@each $size, $value in $font-sizes {
+	.fz-#{$size} {
+		font-size: $value !important;
+	}
+}
+
+@each $size, $value in $round-radius {
+	.rounded-#{$size} {
+		border-radius: $value !important;
+	}
+}
+
+@each $size, $length in $sizes {
+	.h-#{$size} {
+		height: $length !important;
+	}
+	.min-h-#{$size} {
+		min-height: $length;
+	}
+	.mh-#{$size} {
+		max-height: $length;
+	}
+	.w-#{$size} {
+		width: $length !important;
+	}
+	.min-w-#{$size} {
+		min-width: $length;
+	}
+	.mw-#{$size} {
+		max-width: $length;
+	}
+}
+
+.bg-no-repeat {
+	background-repeat: no-repeat !important;
+}
+.bg-size-cover{
+	background-size: cover;
+}

@@ -1,0 +1,87 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+@import 'variables';
+@import 'utilities';
+
+.theme-white {
+    background-color: #ffffff;
+}
+.theme-selago {
+    background-color: #e4ecfc;
+}
+.theme-dodger-blue {
+    background-color: #4C94FC;
+}
+.theme-bittersweet {
+    background-color: #FC736C;
+}
+.theme-mantis {
+    background-color: #6DCB61;
+}
+.theme-bianca {
+    background-color: #FCFCF4;
+}
+.theme-saffron-mango {
+    background-color: #FCC450;
+}
+.theme-reef {
+    background-color: #B8FBA5;
+}
+.theme-seashell {
+    background-color: #F1F1F1;
+}
+.btn-primary {
+    border-color: #FCC450 !important;
+}
+.user-icon > svg {
+    width: 50px;
+    height: 50px;
+}
+.rating-icon > svg {
+    height: 20px;
+    width: 20px;
+    margin-left: 1px;
+    margin-bottom: 3px;
+    color: white;
+}
+.feature-button-icon > svg {
+    margin-left: 1px;
+    width: 25px;
+    height: 25px;
+}
+.sidebar-gradient {
+  background-image: linear-gradient(to top, #fcfcfc
+ , #FFFFFF);
+}
+.bar-container {
+  width: 100%;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+.hour-bar {
+    width: 60%; 
+    height: 4px;
+    background-color: #4C94FC;
+}
+.rpm-bar {
+    width: 90%; 
+    height: 4px; 
+    background-color: #FC736C;
+}
+.kcal-bar {
+    width: 30%; 
+    height: 4px; 
+    background-color: #6DCB61;
+}
+.vl {
+  border-left: 2px solid #f1f1f1;
+}
+.double-pearl-lusta-shadow {
+    box-shadow: 0px 20px 0px -10px #FCECC4;
+}
+.hawkes-blue-shadow {
+    box-shadow: 0px 20px 0px -10px #C4DCFC;
+}
+.melon-shadow {
+    box-shadow: 0px 20px 0px -10px #FCBCBC;
+}
