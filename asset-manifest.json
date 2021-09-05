@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kenga-sidebar/static/css/main.0f7da0f8.chunk.css",
+    "main.js": "/kenga-sidebar/static/js/main.ca343680.chunk.js",
+    "main.js.map": "/kenga-sidebar/static/js/main.ca343680.chunk.js.map",
+    "runtime-main.js": "/kenga-sidebar/static/js/runtime-main.cda495f9.js",
+    "runtime-main.js.map": "/kenga-sidebar/static/js/runtime-main.cda495f9.js.map",
+    "static/js/2.e11532ee.chunk.js": "/kenga-sidebar/static/js/2.e11532ee.chunk.js",
+    "static/js/2.e11532ee.chunk.js.map": "/kenga-sidebar/static/js/2.e11532ee.chunk.js.map",
+    "static/js/3.198f52df.chunk.js": "/kenga-sidebar/static/js/3.198f52df.chunk.js",
+    "static/js/3.198f52df.chunk.js.map": "/kenga-sidebar/static/js/3.198f52df.chunk.js.map",
+    "index.html": "/kenga-sidebar/index.html",
+    "static/css/main.0f7da0f8.chunk.css.map": "/kenga-sidebar/static/css/main.0f7da0f8.chunk.css.map",
+    "static/js/2.e11532ee.chunk.js.LICENSE.txt": "/kenga-sidebar/static/js/2.e11532ee.chunk.js.LICENSE.txt",
+    "static/media/curvedlines.40086f4e.svg": "/kenga-sidebar/static/media/curvedlines.40086f4e.svg",
+    "static/media/curvedlines_bittersweet.706ac210.svg": "/kenga-sidebar/static/media/curvedlines_bittersweet.706ac210.svg",
+    "static/media/duck_illustration.aeef6b2b.png": "/kenga-sidebar/static/media/duck_illustration.aeef6b2b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda495f9.js",
+    "static/js/2.e11532ee.chunk.js",
+    "static/css/main.0f7da0f8.chunk.css",
+    "static/js/main.ca343680.chunk.js"
+  ]
+}
