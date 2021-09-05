@@ -8,7 +8,7 @@ import * as AiIcons from 'react-icons/ai';
 import * as BsIcons from 'react-icons/bs';
 import * as GiIcons from 'react-icons/gi';
 import { Button } from 'react-bootstrap'
-import  illustration  from '../assets/duck_illustration.png'
+import illustration from '../assets/duck_illustration.png'
 
 function Sidebar() {
     return (
@@ -137,7 +137,7 @@ function Sidebar() {
                             <BsIcons.BsThreeDots />
                         </div>
                     </div>
-                </div>    
+                </div>
             </div>
 
             <div className="container">
@@ -170,7 +170,7 @@ function Sidebar() {
                 </div>
             </div>
         </div>
-        
+
     )
 }
 
